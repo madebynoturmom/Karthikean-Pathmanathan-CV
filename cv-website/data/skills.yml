@@ -1,0 +1,13 @@
+# Grouped skills example
+languages:
+  - Python
+  - JavaScript
+  - HTML/CSS
+frameworks:
+  - React
+  - Node.js
+  - Flask
+tools:
+  - Git
+  - VS Code
+  - Docker

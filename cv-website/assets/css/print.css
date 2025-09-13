@@ -1,0 +1,6 @@
+/* Print/PDF stylesheet for CV */
+@media print {
+  body { background: #fff; color: #000; }
+  header, footer, nav { display: none; }
+  main { box-shadow: none; border-radius: 0; }
+}

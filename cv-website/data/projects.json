@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Project One",
+    "summary": "Short summary of project one.",
+    "links": ["https://github.com/yourusername/project-one"],
+    "tags": ["web", "javascript"]
+  }
+]
